@@ -1,4 +1,4 @@
-# PersonAPI
+# CitiesAPI
 
 > Projeto desenvolvido no [Bootcamp Java](https://web.digitalinnovation.one/track/java-developer) oferecido pela Digital Innovation One
 
